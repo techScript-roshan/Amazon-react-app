@@ -1,0 +1,18 @@
+/* .btn-slide{
+    height: 485px;
+    width: 485px;
+    background-color: black;
+    opacity: 2px white;
+    text-shadow: 2px;
+    margin-bottom: 50px;
+} */
+.banner{
+    width: 100%;
+    height: 50%;
+    position: absolute;
+    opacity: inherit;
+}
+.btn-slide-prev{
+    height: 34px;
+    width: 44px;
+}
